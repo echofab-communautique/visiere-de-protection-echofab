@@ -84,6 +84,7 @@ La bande:
 
 ### Propriétés de l’élastique
 
+(A venir)
 
 ## Processus de fabrication de la visière
 - Partie supérieure - couronne 
