@@ -10,6 +10,7 @@
 - [Introduction](#Introduction)
 - [Contexte](#Contexte)
 - [Evolution du modèle](#Evolution-du-modèle)
+- [Méthode de fabrication](#Méthode-de-fabrication)
 - [Paramètres de fabrication](#Paramètres-de-fabrication)
 - [Processus de fabrication de la visière](#Processus-de-fabrication-de-la-visière)
 - [Processus de fabrication à l’échelle](#Processus-de-fabrication-à-l’échelle)
