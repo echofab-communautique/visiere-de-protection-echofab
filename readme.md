@@ -55,7 +55,7 @@ Nous avons recherché parmi les solutions entièrement à la découpe laser et t
 
 Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab, avec du plastique de fortune disponible sur place. Nous l’avons comparé à la visière du modèle du CHUM, de là élargi sur les cotés, et retiré un gréement au bas de la visière qui nous semblait peu utile et à risque.
 
-### Téléchargement : Les fichiers peuvent être consultés et téléchargés plus bas:
+### Téléchargement : Les fichiers .svg peuvent être téléchargés en téléchargeant ce repository
 
 
 ## Paramètres de  fabrication 
