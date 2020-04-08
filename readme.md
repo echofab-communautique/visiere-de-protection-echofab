@@ -55,11 +55,12 @@ Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab,
 
 ### Téléchargement : Les fichiers .svg peuvent être téléchargés en cliquant sur le bouton "Clone or donwload" en haut de cette page
 
+La bande:
+![Bande final (1)](https://user-images.githubusercontent.com/13840338/78802823-8d531180-79be-11ea-9a59-c605749e0bef.png)
+
 La visière:
 ![visiere finiale (1)](https://user-images.githubusercontent.com/13840338/78802822-8cba7b00-79be-11ea-807b-883c93bfb779.png)
 
-La bande:
-![Bande final (1)](https://user-images.githubusercontent.com/13840338/78802823-8d531180-79be-11ea-9a59-c605749e0bef.png)
 
 ## Paramètres de  fabrication 
 
