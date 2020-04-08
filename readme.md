@@ -55,7 +55,8 @@ Nous avons recherché parmi les solutions entièrement à la découpe laser et t
 
 Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab, avec du plastique de fortune disponible sur place. Nous l’avons comparé à la visière du modèle du CHUM, de là élargi sur les cotés, et retiré un gréement au bas de la visière qui nous semblait peu utile et à risque.
 
-### Téléchargement : Les fichiers .svg peuvent être téléchargés en téléchargeant ce repository
+### Téléchargement : Les fichiers .svg peuvent être téléchargés en cliquant sur le bouton "Clone or donwload" en haut de cette page
+
 La visière:
 ![visiere finiale (1)](https://user-images.githubusercontent.com/13840338/78802822-8cba7b00-79be-11ea-807b-883c93bfb779.png)
 
