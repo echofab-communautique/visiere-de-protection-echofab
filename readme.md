@@ -47,7 +47,7 @@ Notre ambition annoncée est de développer le prototype **Fab City Montréal** 
 <a href="https://www.protohaven.org/proto-shield/" target="_blank">`https://www.protohaven.org/proto-shield/`</a>
 <a href="https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2" target="_blank">`https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2`</a>
 
-### Méthode de fabrication : la découpe laser
+## Méthode de fabrication : la découpe laser
 
 Nous avons été contacté par des travailleurs du réseau de la santé afin de nous a sensibilisé à la possibilité d’avoir une visière recyclable. Étant un Fab Lab investi dans le développement durable, nous étions très réceptif. Nous avons eu dès lors une information précieuse sur ce qui pouvait ou non être éventuellement recyclable dans le contexte du milieu de la santé.
 
@@ -56,15 +56,23 @@ Nous avons recherché parmi les solutions entièrement à la découpe laser et t
 Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab, avec du plastique de fortune disponible sur place. Nous l’avons comparé à la visière du modèle du CHUM, de là élargi sur les cotés, et retiré un gréement au bas de la visière qui nous semblait peu utile et à risque.
 
 ### Téléchargement : Les fichiers .svg peuvent être téléchargés en téléchargeant ce repository
+La visière:
+![visiere finiale (1)](https://user-images.githubusercontent.com/13840338/78802822-8cba7b00-79be-11ea-807b-883c93bfb779.png)
 
+La bande:
+![Bande final (1)](https://user-images.githubusercontent.com/13840338/78802823-8d531180-79be-11ea-9a59-c605749e0bef.png)
 
 ## Paramètres de  fabrication 
 
+- **Zone de découpe :** dimension des plaques etc...
+- **Machine de découpe :** Trotec (modèle/type?)
+- **Paramétrage de découpe :** (résolution, puissance, vitesse…)
+
 ### Matériaux peuvent comprendre : 
 
-**Monture :** PETG (Polyéthylène Téréphtalate Glycolisé) incolore 0.06" ou 0.04"
-**Visière :** PETG incolore 0.02 ou Clear, Impact Modified Acrylic .018 ou Polycarbonate (pas de découpe laser) (les modifiants chocs acryliques transparent), selon disponibilité sur le marché
-**Bande élastique :** plat, 1 cm, pratique et polyvalent. Exemple : <a href="https://www.amazon.ca/-/fr/dp/B086C38L29/ref=sr_1_3" target="_blank">`https://www.amazon.ca/-/fr/dp/B086C38L29/ref=sr_1_3`</a>
+**Monture :** PETG (Polyéthylène Téréphtalate Glycolisé) incolore 0.06" ou 0.04"  
+**Visière :** PETG incolore 0.02 ou Clear, Impact Modified Acrylic .018 ou Polycarbonate (pas de découpe laser) (les modifiants chocs acryliques transparent), selon disponibilité sur le marché  
+**Bande élastique :** plat, 1 cm, pratique et polyvalent. Exemple : <a href="https://www.amazon.ca/-/fr/dp/B086C38L29/ref=sr_1_3" target="_blank">`https://www.amazon.ca/-/fr/dp/B086C38L29/ref=sr_1_3`</a>  
 
 ### Propriétés du PETG incolore:
 - très bonnes propriétés optiques
@@ -76,22 +84,20 @@ Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab,
 - très résistant choc et feu
 
 ### Propriétés de l’élastique
-- **Zone de découpe :** dimension des plaques etc...
-- **Machine de découpe :** Trotec (modèle/type?)
-- **Paramétrage de découpe :** (résolution, puissance, vitesse…)
+
 
 ## Processus de fabrication de la visière
 - Partie supérieure - couronne 
 - Bande flexible
 - Bouclier facial 
 
-Fichier vectoriel du plan de découpage
-Image ou photo de la config logiciel trotec
-Photos ou vidéos ou dessins au crayon de l’assemblage + explications type IKEA
-Illustration vectorielle simple de type pictogramme ou gif pour le montage/assemblage
+
+A venir: Image ou photo de la config logiciel trotec  
+A venir: Photos ou vidéos ou dessins au crayon de l’assemblage + explications type IKEA  
+A venir: Illustration vectorielle simple de type pictogramme ou gif pour le montage/assemblage  
 
 ## Processus de fabrication à l’échelle
-Expliquer le processus, quantité, recommandations
+A venir: Explication du processus, quantité, recommandations
 
 ## Recommandations générales
 
