@@ -107,19 +107,19 @@ A venir: Explication du processus, quantité, recommandations
 ## Information complémentaire
 
 ## Partenariats
-
-Merci de votre solidarité !
-
-Tak Design
-ADI Accélérateurs
-District Central
-﻿http://hyperboreas.com/﻿
-Pierrot Péladeau, chercheur invité http://pierrot-peladeau.net/fr/﻿
-Fybon Nonwovens Inc http://www.fybon.com/﻿
-Lamour Inc http://www.lamour.com/﻿
-Percolab,
-Alexandre Maquet / Créa-Pierre,
-Robert Dumontet, PME-MTL https://pmemtl.com/,﻿
-Chantier de l’économie sociale,
-Conseil des Métiers d’art du Québec https://www.metiersdart.ca/﻿
-Rotaract Club de l’Île de Montréal http://www.rotaract-idm.com/
+  
+Merci de votre solidarité !  
+  
+Tak Design  
+ADI Accélérateurs  
+District Central  
+﻿http://hyperboreas.com/﻿  
+Pierrot Péladeau, chercheur invité http://pierrot-peladeau.net/fr/﻿  
+Fybon Nonwovens Inc http://www.fybon.com/﻿  
+Lamour Inc http://www.lamour.com/﻿  
+Percolab,  
+Alexandre Maquet / Créa-Pierre,  
+Robert Dumontet, PME-MTL https://pmemtl.com/,﻿  
+Chantier de l’économie sociale,  
+Conseil des Métiers d’art du Québec https://www.metiersdart.ca/﻿  
+Rotaract Club de l’Île de Montréal http://www.rotaract-idm.com/  
