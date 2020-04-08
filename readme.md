@@ -5,7 +5,6 @@
 > Obectif : protection contre la maladie Covid-19 
 > Date de création : 1 avril 2020 
 
-
 ## Sommaire
 
 - [Introduction](#Introduction)
@@ -18,6 +17,14 @@
 - [Conseil de santé](#Conseil-de-santé)
 - [Information complémentaire](#Information-complémentaire)
 - [Partenariats](#Partenariats)
+
+![visiere_echofab](https://user-images.githubusercontent.com/13840338/78801056-757a8e00-79bc-11ea-8733-783d84684b78.gif)
+
+![visiere3Dpng](https://user-images.githubusercontent.com/13840338/78800749-187ed800-79bc-11ea-9e01-5fd615ef16b5.png)
+
+![visiereEclatee](https://user-images.githubusercontent.com/13840338/78800801-2a607b00-79bc-11ea-9b3c-e9be2f186ce8.png)
+
+![visierePlan](https://user-images.githubusercontent.com/13840338/78800825-31878900-79bc-11ea-95b8-8c8312b4c61a.png)
 
 ## Introduction
 Conception révisée et testée par l’hôpital du Sacré Coeur, Centre intégré universitaire de santé et de services sociaux du Nord-de-l'Île-de-Montréal en date du 01/04/2020
@@ -48,7 +55,8 @@ Nous avons recherché parmi les solutions entièrement à la découpe laser et t
 
 Nous avons fabriqué le Proto Shields, lors d’une visite furtive à notre Lab, avec du plastique de fortune disponible sur place. Nous l’avons comparé à la visière du modèle du CHUM, de là élargi sur les cotés, et retiré un gréement au bas de la visière qui nous semblait peu utile et à risque.
 
-### Téléchargement : Les fichiers peuvent être consultés et téléchargés à partir du dossier suivant (fournir les fichiers)
+### Téléchargement : Les fichiers peuvent être consultés et téléchargés plus bas:
+
 
 ## Paramètres de  fabrication 
 
