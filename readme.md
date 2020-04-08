@@ -1,9 +1,9 @@
 # Equipement de protection individuelle/Visière de protection échofab
 
-> Visière de protection échofab - version augmentée basée sur le modèle open source Proto Shields de Protohaven, équivalent en découpe laser du modèle PRUSA.
-> Premier lieu de fabrication : Echofab  
-> Obectif : protection contre la maladie Covid-19 
-> Date de création : 1 avril 2020 
+> Visière de protection échofab - version augmentée basée sur le modèle open source Proto Shields de Protohaven, équivalent en découpe laser du modèle PRUSA.  
+> Premier lieu de fabrication : Echofab    
+> Objectif : protection contre la maladie Covid-19   
+> Date de création : 1 avril 2020   
 
 ## Sommaire
 
@@ -20,11 +20,8 @@
 
 ![visiere_echofab](https://user-images.githubusercontent.com/13840338/78801056-757a8e00-79bc-11ea-8733-783d84684b78.gif)
 
-![visiere3Dpng](https://user-images.githubusercontent.com/13840338/78800749-187ed800-79bc-11ea-9e01-5fd615ef16b5.png)
+![visiere-triptyque](https://user-images.githubusercontent.com/13840338/78804020-f4bd9100-79bf-11ea-9d20-d61093563e7c.png)
 
-![visiereEclatee](https://user-images.githubusercontent.com/13840338/78800801-2a607b00-79bc-11ea-9b3c-e9be2f186ce8.png)
-
-![visierePlan](https://user-images.githubusercontent.com/13840338/78800825-31878900-79bc-11ea-95b8-8c8312b4c61a.png)
 
 ## Introduction
 Conception révisée et testée par l’hôpital du Sacré Coeur, Centre intégré universitaire de santé et de services sociaux du Nord-de-l'Île-de-Montréal en date du 01/04/2020
