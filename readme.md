@@ -109,17 +109,19 @@ A venir: Explication du processus, quantité, recommandations
 ## Partenariats
   
 Merci de votre solidarité !  
-  
-Tak Design  
-ADI Accélérateurs  
-District Central  
-﻿http://hyperboreas.com/﻿  
-Pierrot Péladeau, chercheur invité http://pierrot-peladeau.net/fr/﻿  
-Fybon Nonwovens Inc http://www.fybon.com/﻿  
-Lamour Inc http://www.lamour.com/﻿  
-Percolab,  
-Alexandre Maquet / Créa-Pierre,  
-Robert Dumontet, PME-MTL https://pmemtl.com/,﻿  
-Chantier de l’économie sociale,  
-Conseil des Métiers d’art du Québec https://www.metiersdart.ca/﻿  
-Rotaract Club de l’Île de Montréal http://www.rotaract-idm.com/  
+
+<a href="https://takdi.com/" target="_blank">Tak Design</a>
+<a href="http://www.hyperboreas.com/" target="_blank"> HyperBoreas</a>
+<a href="http://www.procedurable.com/" target="_blank"> Procédurable</a>
+<a href="http://www.percolab.com/" target="_blank"> Percolab</a>
+<a href="https://fablabdupec.com/" target="_blank"> Fab Lab du PEC</a>
+<a href="https://www.fablabldi.com/description" target="_blank"> Fab Lab LDI</a>
+<a href="https://www.nanogrande.com/" target="_blank"> Nanogrande</a>
+<a href="http://www.lamour.com/" target="_blank"> Groupe Lamour</a>
+<a href="http://www.fybon.com/" target="_blank"> Fybon Nonwovens</a>
+<a href="https://district-central.ca/" target="_blank"> District Central</a>
+<a href="https://www.adiaccelerator.com/" target="_blank"> ADI Accélérateur</a>
+<a href="https://theconversation.com/profiles/pierrot-peladeau-693198" target="_blank"> Pierrot Péladeau</a>
+<a href="http://www.rotaract-idm.com/" target="_blank"> Rotaract Club de l’Île de Montréal</a>
+Robert Dumontet
+<a href="http://www.lucprevost.com/" target="_blank"> Luc Prévost </a>
