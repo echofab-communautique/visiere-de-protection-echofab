@@ -109,25 +109,11 @@ couronne =0,06" ep
 | :---: |:---:| :---:|
 | ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)    | ![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG) | ![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)  |
 
-Etape #1
-![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)
+| Etape #4    | Etape #5 | Etape #6  |
+| :---: |:---:| :---:|
+| ![4](https://user-images.githubusercontent.com/13840338/78902659-59d5bd00-7a7a-11ea-9d8b-f3986d87daa8.JPG)    | ![5](https://user-images.githubusercontent.com/13840338/78902663-59d5bd00-7a7a-11ea-9e4a-ad4136daca0b.JPG) | ![6](https://user-images.githubusercontent.com/13840338/78902665-5a6e5380-7a7a-11ea-9131-5214802c40eb.JPG)  |
 
-Etape #2
-![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG)
-
-Etape #3
-![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)
-
-Etape #4
-![4](https://user-images.githubusercontent.com/13840338/78902659-59d5bd00-7a7a-11ea-9d8b-f3986d87daa8.JPG)
-
-Etape #5
-![5](https://user-images.githubusercontent.com/13840338/78902663-59d5bd00-7a7a-11ea-9e4a-ad4136daca0b.JPG)
-
-Etape #6
-![6](https://user-images.githubusercontent.com/13840338/78902665-5a6e5380-7a7a-11ea-9131-5214802c40eb.JPG)
-
-Etape #7
+Résultat final
 ![7](https://user-images.githubusercontent.com/13840338/78902666-5b06ea00-7a7a-11ea-9b50-3aaa853eda77.JPG)
 
 ## Processus de fabrication à l’échelle
