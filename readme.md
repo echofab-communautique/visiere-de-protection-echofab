@@ -19,7 +19,7 @@
 - [Information complémentaire](#Information-complémentaire)
 - [Partenariats](#Partenariats)
 
-![visiere_echofab](https://user-images.githubusercontent.com/13840338/78801056-757a8e00-79bc-11ea-8733-783d84684b78.gif)
+![Visière Echofab2](https://user-images.githubusercontent.com/13840338/78902740-7bcf3f80-7a7a-11ea-80ad-2fad71c426cc.gif)
 
 ![visiere-triptyque](https://user-images.githubusercontent.com/13840338/78804020-f4bd9100-79bf-11ea-9d20-d61093563e7c.png)
 
@@ -68,6 +68,8 @@ La visière:
 - **Machine de découpe :** Trotec (modèle/type?)
 - **Paramétrage de découpe :** (résolution, puissance, vitesse…)
 
+## Matériaux 
+
 ### Matériaux peuvent comprendre : 
 
 **Monture :** PETG (Polyéthylène Téréphtalate Glycolisé) incolore 0.06" ou 0.04"  
@@ -85,17 +87,43 @@ La visière:
 
 ### Propriétés de l’élastique
 
-(A venir)
+- élastique à boutonnière tricotté,
+- 3/4" de large
+- de couleur de préférence pâle
 
-## Processus de fabrication de la visière
-- Partie supérieure - couronne 
-- Bande flexible
-- Bouclier facial 
+## Fabrication des pièces de la visière
 
+1- Télécharger les 2 fichiers .svg
 
-A venir: Image ou photo de la config logiciel trotec  
-A venir: Photos ou vidéos ou dessins au crayon de l’assemblage + explications type IKEA  
-A venir: Illustration vectorielle simple de type pictogramme ou gif pour le montage/assemblage  
+2- Configurer la découpe laser
+Visiere: P:100 V:2 F:5000
+Couronne: P100 V:1 F:5000
+Parametres utilisés pour petg
+visière = 0.02" ep
+couronne =0,06" ep
+
+## Montage de la visière
+
+Etape #1
+![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)
+
+Etape #2
+![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG)
+
+Etape #3
+![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)
+
+Etape #4
+![4](https://user-images.githubusercontent.com/13840338/78902659-59d5bd00-7a7a-11ea-9d8b-f3986d87daa8.JPG)
+
+Etape #5
+![5](https://user-images.githubusercontent.com/13840338/78902663-59d5bd00-7a7a-11ea-9e4a-ad4136daca0b.JPG)
+
+Etape #6
+![6](https://user-images.githubusercontent.com/13840338/78902665-5a6e5380-7a7a-11ea-9131-5214802c40eb.JPG)
+
+Etape #7
+![7](https://user-images.githubusercontent.com/13840338/78902666-5b06ea00-7a7a-11ea-9b50-3aaa853eda77.JPG)
 
 ## Processus de fabrication à l’échelle
 A venir: Explication du processus, quantité, recommandations
