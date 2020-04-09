@@ -1,5 +1,7 @@
 # Equipement de protection individuelle/Visière de protection échofab
 
+⚠️ ENGLISH Version is available below - - [GO TO ENGLISH](#personal-protective-equipmentechofab-protective-visor)
+
 > **Visière de protection échofab** - version augmentée basée sur le modèle open source Proto Shields de Protohaven, équivalent en découpe laser du modèle PRUSA.  
 > **Premier lieu de fabrication :** Echofab    
 > **Objectif :** protection contre la maladie Covid-19   
@@ -159,18 +161,18 @@ Robert Dumontet
 ## Sommaire
 
 - [Introduction](#Introduction)
-- [Contexte](#Contexte)
-- [Evolution du modèle](#Evolution-du-modèle)
-- [Méthode de fabrication](#méthode-de-fabrication--la-découpe-laser)
-- [Paramètres de fabrication](#paramètres-de--fabrication)
-- [Matériaux](#materiaux)
-- [Fabrication des pièces de la visière](#fabrication-des-pièces-de-la-visière)
-- [Montage de la visière](#montage-de-la-visière)
-- [Processus de fabrication à l’échelle](#processus-de-fabrication-à-léchelle)
-- [Recommandations générales](#Recommandations-générales)
-- [Conseil de santé](#Conseil-de-santé)
-- [Information complémentaire](#Information-complémentaire)
-- [Partenariats](#Partenariats)
+- [Background](#Background)
+- [Evolution of the model](#evolution-of-the-model)
+- [Manufacturing method: laser cutting](#manufacturing-method-laser-cutting)
+- [Manufacturing parameters](#Manufacturing-parameters)
+- [Materials](#materials)
+- [Manufacturing of Face shield parts](#Manufacturing-of-Face-shield-parts)
+- [Face shield mounting](#Face-shield-mounting)
+- [Manufacturing process to scale](#Manufacturing-process-to-scale)
+- [General recommendations](#General-recommendations)
+- [Health Advice](#Health-Advice)
+- [Further information](#Further-information)
+- [Partnerships](#Partnerships)
 
 ![Visière Echofab2](https://user-images.githubusercontent.com/13840338/78902740-7bcf3f80-7a7a-11ea-80ad-2fad71c426cc.gif)
 
