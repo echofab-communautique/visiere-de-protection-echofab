@@ -95,12 +95,12 @@ La visière:
 
 1- Télécharger les 2 fichiers .svg
 
-2- Configurer la découpe laser
-Visiere: P:100 V:2 F:5000
-Couronne: P100 V:1 F:5000
-Parametres utilisés pour petg
-visière = 0.02" ep
-couronne =0,06" ep
+2- Configurer la découpe laser  
+Visiere: P:100 V:2 F:5000  
+Couronne: P100 V:1 F:5000  
+Parametres utilisés pour petg  
+visière = 0.02" ep  
+couronne =0,06" ep  
 
 ## Montage de la visière
 
