@@ -106,6 +106,7 @@ couronne =0,06" ep
 
 ## Montage de la visière
 | Etape #1    | Etape #2 | Etape #3  |
+| :---: |:---:| :---:|
 | ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)    | ![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG) | ![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)  |
 
 Etape #1
