@@ -158,9 +158,9 @@ Robert Dumontet
 > **Objective :** protection against Covid-19 disease   
 > **Creation date :** April 1st, 2020  
 
-## Sommaire
+## Table of content
 
-- [Introduction](#Introduction)
+
 - [Background](#Background)
 - [Evolution of the model](#evolution-of-the-model)
 - [Manufacturing method: laser cutting](#manufacturing-method-laser-cutting)
