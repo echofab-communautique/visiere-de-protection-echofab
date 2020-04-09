@@ -1,9 +1,9 @@
 # Equipement de protection individuelle/Visière de protection échofab
 
-> Visière de protection échofab - version augmentée basée sur le modèle open source Proto Shields de Protohaven, équivalent en découpe laser du modèle PRUSA.  
-> Premier lieu de fabrication : Echofab    
-> Objectif : protection contre la maladie Covid-19   
-> Date de création : 1 avril 2020   
+> **Visière de protection échofab** - version augmentée basée sur le modèle open source Proto Shields de Protohaven, équivalent en découpe laser du modèle PRUSA.  
+> **Premier lieu de fabrication :** Echofab    
+> **Objectif :** protection contre la maladie Covid-19   
+> **Date de création :** 1 avril 2020   
 
 ## Sommaire
 
@@ -12,7 +12,9 @@
 - [Evolution du modèle](#Evolution-du-modèle)
 - [Méthode de fabrication](#méthode-de-fabrication--la-découpe-laser)
 - [Paramètres de fabrication](#paramètres-de--fabrication)
-- [Processus de fabrication de la visière](#Processus-de-fabrication-de-la-visière)
+- [Matériaux](#materiaux)
+- [Fabrication des pièces de la visière](#fabrication-des-pièces-de-la-visière)
+- [Montage de la visière](#montage-de-la-visière)
 - [Processus de fabrication à l’échelle](#processus-de-fabrication-à-léchelle)
 - [Recommandations générales](#Recommandations-générales)
 - [Conseil de santé](#Conseil-de-santé)
@@ -103,6 +105,8 @@ visière = 0.02" ep
 couronne =0,06" ep  
 
 ## Montage de la visière
+| Etape #1    | Etape #2 | Etape #3  |
+| ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)    | ![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG) | ![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)  |
 
 Etape #1
 ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)
