@@ -70,6 +70,9 @@ La visière:
 
 - **Dimension des plaques :** 13,5'' x 21" pour la visière
 , et 24"X 17" pour la couronne
+![IMG_20200413_124956](https://user-images.githubusercontent.com/13840338/79436815-a6b51880-7fd1-11ea-9dff-d3d42c10d123.jpg)
+![IMG_20200413_125004](https://user-images.githubusercontent.com/13840338/79436819-a74daf00-7fd1-11ea-94cf-f00a8cb99fd5.jpg)
+![IMG_20200413_125022](https://user-images.githubusercontent.com/13840338/79436820-a7e64580-7fd1-11ea-8fa8-6d233bf1bde3.jpg)
 - **Machine de découpe :** Trotec Speedy 300
 
 
@@ -108,6 +111,8 @@ visière = 0.02" ep
 couronne =0,06" ep  
 
 ## Montage de la visière
+![montage-visiere-x2-cropped-reduced](https://user-images.githubusercontent.com/13840338/79436596-60f85000-7fd1-11ea-83af-c12817fcd41e.gif)
+
 | Etape #1    | Etape #2 | Etape #3  |
 | :---: |:---:| :---:|
 | ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)    | ![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG) | ![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)  |
@@ -120,6 +125,7 @@ Résultat final
 ![7](https://user-images.githubusercontent.com/13840338/78902666-5b06ea00-7a7a-11ea-9b50-3aaa853eda77.JPG)
 
 ## Processus de fabrication à l’échelle
+Voir les fichiers .svg commencant par "PRODUCTION-"
 A venir: Explication du processus, quantité, recommandations
 
 ## Recommandations générales
@@ -223,6 +229,9 @@ The visor:
 
 - **Plates Dimension :** 13,5'' x 21" for the visor
 , et 24"X 17" for the frame
+![IMG_20200413_124956](https://user-images.githubusercontent.com/13840338/79436815-a6b51880-7fd1-11ea-9dff-d3d42c10d123.jpg)
+![IMG_20200413_125004](https://user-images.githubusercontent.com/13840338/79436819-a74daf00-7fd1-11ea-94cf-f00a8cb99fd5.jpg)
+![IMG_20200413_125022](https://user-images.githubusercontent.com/13840338/79436820-a7e64580-7fd1-11ea-8fa8-6d233bf1bde3.jpg)
 - **Cutting machine :** Trotec Speedy 300
 
 ## Materials
@@ -260,6 +269,9 @@ Visor = 0.02" ep
 Frame =0,06" ep  
 
 ## Face shield mounting
+
+![montage-visiere-x2-cropped-reduced](https://user-images.githubusercontent.com/13840338/79436596-60f85000-7fd1-11ea-83af-c12817fcd41e.gif)
+
 | Step #1    | Step #2 | Step #3  |
 | :---: |:---:| :---:|
 | ![1](https://user-images.githubusercontent.com/13840338/78902649-57736300-7a7a-11ea-8abc-e2acc2a8b006.jpg)    | ![2](https://user-images.githubusercontent.com/13840338/78902654-58a49000-7a7a-11ea-990d-807eb3dbaa45.JPG) | ![3](https://user-images.githubusercontent.com/13840338/78902656-593d2680-7a7a-11ea-9a40-4af7bfab2299.JPG)  |
@@ -272,6 +284,7 @@ Final Result
 ![7](https://user-images.githubusercontent.com/13840338/78902666-5b06ea00-7a7a-11ea-9b50-3aaa853eda77.JPG)
 
 ## Manufacturing process to scale
+See .svg files beginning with "PRODUCTION-"
 Coming soon: Process Explaination, quantity, recommendations
 
 ## General recommendations
