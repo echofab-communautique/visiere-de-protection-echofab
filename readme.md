@@ -126,7 +126,20 @@ Résultat final
 
 ## Processus de fabrication à l’échelle
 Voir les fichiers .svg commencant par "PRODUCTION-"
-A venir: Explication du processus, quantité, recommandations
+### Système de levier pour la plieuse du bandeau intérieur
+**Objectif : Diminuer la force nécessaire à appliquer sur la matrice et augmenter la précision/répétitivité.**
+L’assemblage initial de la plieuse sans levier a été réalisé par Raphael Demers et Lucas (lucas.tisne@gmail.com)
+
+L’ensemble des pièces de cette mise à jour doit être découpé au laser dans du contreplaqué de 0.25’’ à l’exception des piliers verticaux qui sont des 2X4 et des deux supports imprimés en 3D. 
+
+Fichier nécessaires
+Fichier Inkscape de découpe pour le laser (Package 5 (1X).svg
+Fichier STL pour imprimer en 3D les supports. Imprimer 2 fois. (Support V4-2.stl) 
+Fichier de l’assemblage en 3D (STP) : Levier V4_1.stp
+Ferronnerie  
+Levier et bielle : Vis à métal 5/16’’ pour connecter la bielle et le levier aux pièces en 3D. Pas besoin d’écrou comme la vis s’encastre dans le plastique.
+Supports en plastique imprimés en 3D : Attachés par des vis métal en #6-32, rondelles et écrous. 
+
 
 ## Recommandations générales
 
@@ -285,7 +298,19 @@ Final Result
 
 ## Manufacturing process to scale
 See .svg files beginning with "PRODUCTION-"
-Coming soon: Process Explaination, quantity, recommendations
+### Leverage system for the interior headband folder
+**Objective: Decrease the force required to apply to the matrix and increase the precision / repeatability.**
+The initial assembly of the leverless folder was carried out by Raphael Demers and Lucas (lucas.tisne@gmail.com)
+
+All of the parts in this update must be laser cut from 0.25 ’’ plywood with the exception of the vertical pillars which are 2X4 and two 3D printed media.
+
+File required:
+Inkscape laser cutting file (Package 5 (1X) .svg
+STL file to 3D print the supports. Print 2 times. (Support V4-2.stl)
+3D assembly file (STP): Lever V4_1.stp
+Ironwork
+Lever and connecting rod: 5/16 '' metal screw to connect the connecting rod and lever to 3D parts. No need for a nut as the screw fits into the plastic.
+Plastic supports printed in 3D: Attached by metal screws in # 6-32, washers and nuts.
 
 ## General recommendations
 
